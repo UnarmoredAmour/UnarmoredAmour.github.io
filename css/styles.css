@@ -11,15 +11,15 @@ https://templatemo.com/tm-587-tiya-golf-club
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
+  --white-color:                  #FBFAF9;
   --primary-color:                #81B29A;
   --secondary-color:              #A10035;
   --section-bg-color:             #F4F1DE;
-  --custom-btn-bg-color:          #C0C0C0;
+  --custom-btn-bg-color:          #F6BC5E;
   --custom-btn-bg-hover-color:    #E07A5F;
-  --dark-color:                   #000000;
+  --dark-color:                   #0E0D0D;
   --p-color:                      #717275;
-  --link-hover-color:             #C0C0C0;
+  --link-hover-color:             #F6BC5E;
 
   --body-font-family:             'DM Sans', sans-serif;
 
