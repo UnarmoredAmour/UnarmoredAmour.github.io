@@ -21,6 +21,8 @@ https://templatemo.com/tm-587-tiya-golf-club
   --p-color:                      #717275;
   --link-hover-color:             #F6BC5E;
 
+  /*
+
   --body-font-family:             'DM Sans', sans-serif;
 
   --h1-font-size:                 42px;
@@ -46,7 +48,39 @@ body {
   background-color: var(--white-color);
   font-family: var(--body-font-family); 
 }
+*/
+:root {
+  --heading-font-family: 'The Seasons', sans-serif;
+  --body-font-family: 'Montserrat', sans-serif;
 
+  --h1-font-size: 42px;
+  --h2-font-size: 36px;
+  --h3-font-size: 28px;
+  --h4-font-size: 24px;
+  --h5-font-size: 22px;
+  --h6-font-size: 20px;
+  --p-font-size: 18px;
+  --menu-font-size: 16px;
+  --btn-font-size: 14px;
+  --border-radius-large: 100px;
+  --border-radius-medium: 20px;
+  --border-radius-small: 10px;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+}
+
+body {
+  background-color: var(--white-color);
+  font-family: var(--body-font-family);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font-family);
+}
+
+/* Other Typography Styles */
+/* ... */
 
 /*---------------------------------------
   TYPOGRAPHY               
