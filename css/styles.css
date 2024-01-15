@@ -49,7 +49,6 @@ body {
   font-family: var(--body-font-family); 
 }
 */
-:root {
   --heading-font-family: 'The Seasons', sans-serif;
   --body-font-family: 'Montserrat', sans-serif;
 
