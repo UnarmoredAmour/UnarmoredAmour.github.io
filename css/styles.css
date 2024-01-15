@@ -15,6 +15,7 @@ https://templatemo.com/tm-587-tiya-golf-club
   --primary-color:                #81B29A;
   --secondary-color:              #A10035;
   --section-bg-color:             #FFFFFF;
+  --section-bg-color-2:           #F2CC8F;
   --custom-btn-bg-color:          #F6BC5E;
   --custom-btn-bg-hover-color:    #E07A5F;
   --dark-color:                   #0E0D0D;
@@ -925,7 +926,7 @@ strong {
 }
 
 .events-detail-info {
-  background-color: var(--section-bg-color);
+  background-color: var(--section-bg-color-2);
   border-radius: var(--border-radius-medium);
   padding: 50px 25px;
 }
