@@ -436,9 +436,15 @@ strong {
   right: 0;
   left: 0;
 }
-
+/*
 .sticky-wrapper.is-sticky .navbar {
   background-color: rgb(61 64 91);
+*/
+
+.sticky-wrapper.is-sticky .navbar {
+  background-color: #A10035;
+
+
 }
 
 .navbar {
