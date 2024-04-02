@@ -3,13 +3,13 @@
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #FFFFFF;
-  --primary-color:                #F2CC8F;
+ --white-color:                  #FFFFFF;
+  --primary-color:                #81B29A;
   --secondary-color:              #A10035;
   --section-bg-color:             #FFFFFF;
   --section-bg-color-2:           #F2CC8F;
-  --custom-btn-bg-color:          #FFFFFF;
-  --custom-btn-bg-hover-color:    #F2CC8F;
+  --custom-btn-bg-color:          #F6BC5E;
+  --custom-btn-bg-hover-color:    #E07A5F;
   --dark-color:                   #0E0D0D;
   --p-color:                      #717275;
   --link-hover-color:             #F6BC5E;
