@@ -4,13 +4,13 @@
 -----------------------------------------*/
 :root {
  --white-color:                  #FFFFFF;
-  --primary-color:                #005B4B;
-  --secondary-color:              #A10035;
+  --primary-color:                #005B4B;  /* green */
+  --secondary-color:              #A10035;  /* Red */
   --section-bg-color:             #FFFFFF;
-  --section-bg-color-2:           #F2CC8F;
-  --custom-btn-bg-color:          #F6BC5E;
-  --custom-btn-bg-hover-color:    #E07A5F;
-  --dark-color:                   #0E0D0D;
+  --section-bg-color-2:           #F2CC8F; /*Bland gold */
+  --custom-btn-bg-color:          #F6BC5E;  /* gold */
+  --custom-btn-bg-hover-color:    #005B4B;  /* green */
+  --dark-color:                   #0E0D0D;  
   --p-color:                      #717275;
   --link-hover-color:             #F6BC5E;
 
